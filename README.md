@@ -2,7 +2,7 @@
 <a href="http://www.djangoproject.com/"><img src="https://www.djangoproject.com/m/img/badges/djangomade124x25.gif" border="0" alt="Made with Django." title="Made with Django." /></a>
 <h1> Overview Of the Project</h1>
 <blockquote>
-  <p>This Project basically is a Shopping-Cart based on Django WebFramework</p>
+  <p>This Project is basically a Shopping-Cart based on Django WebFramework</p>
   <p>It has the following features:<p>
   <ul>
     <li>Sign in/up for user. </li>
