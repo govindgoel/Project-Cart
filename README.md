@@ -11,4 +11,18 @@ To get started:
 6. Navigate to that folder.
 7. Then to run our development server run the following command: python manage.py runserver <br>
 
+<h1> Overview Of the Project</h1>
+<blockquote>
+  <p>This is basically a shopping-cart based on Django</p>
+  <p>It has the following features<p>
+  <ul>
+    <li>Sign in/up for user </li>
+    <li>Add/Delete/Update the product in cart </li>
+    <li>Calculate the Total Amount and then Checkout</li>
+  </ul>
+</blockqoute>
+  
+
+
+
 Refer blog:- https://scproject04.blogspot.com <br>
