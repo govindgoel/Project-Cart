@@ -27,6 +27,7 @@
 </blockquote>
 
 <h3> Shopping Cart Home Page</h3>
-<p>![alt text](img/Screenshot%20from%202019-12-24%2001-36-52.png)</p>
+<p>![alt text]
+  (img/Screenshot%20from%202019-12-24%2001-36-52.png)</p>
 
 Refer blog:- https://scproject04.blogspot.com <br>
