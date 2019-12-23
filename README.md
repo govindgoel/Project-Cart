@@ -21,7 +21,19 @@ To get started:
     <li>Calculate the Total Amount and then Checkout.</li>
   </ul>
 </blockqoute>
-  
+
+<h1> Getting Started </h1>
+<p>THe following instructions will help you out in setting up the development enviornment and running up the project on your local machine</p> 
+<blockquote>
+  <ol>
+    <li>Clone the repo: https://github.com/govindgoel/Shopping-Cart.git</li>
+    <li>Create a virtual env. using:  virtualenv -p /usr/bin/python3 (-folder-name-)</li>
+    <li>Activate the virtual env. using:  source (-folder name-)/bin/activate</li>
+    <li>Install Django and required dependencies from requirements.txt</li>
+    <li>Navigate to the folder where manage.py is located</li>
+    <li>Then to run our development server run the following command: python manage.py runserver</li>
+  </ol>
+</blockquote>
 
 
 
