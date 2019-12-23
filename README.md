@@ -32,5 +32,19 @@
   <p><img src="https://raw.githubusercontent.com/govindgoel/Project-Cart/master/img/Screenshot%20from%202019-12-24%2001-40-40.png"></p><br>
 <h3>Sign Up</h3>
   <p><img src="https://raw.githubusercontent.com/govindgoel/Project-Cart/master/img/Screenshot%20from%202019-12-24%2001-40-46.png"><br>
+<h3>Product Details</h3>
+  <p><img src="https://raw.githubusercontent.com/govindgoel/Project-Cart/master/img/Screenshot%20from%202019-12-24%2001-51-09.png"><br>
+<h3>Cart Overview</h3>
+  <p><img src="https://raw.githubusercontent.com/govindgoel/Project-Cart/master/img/Screenshot%20from%202019-12-24%2001-51-17.png"><br>
 
+<h1>Developed Using:</h1>
+<blockquote>
+  <ul>
+    <li>Django</li>
+    <li>Python</li>
+    <li>HTML</li>
+    <li>CSS</li>
+  </ul>
+</blockquote>
+      
 Refer blog:- https://scproject04.blogspot.com <br>
