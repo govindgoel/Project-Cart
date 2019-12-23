@@ -29,7 +29,7 @@
 <h3> Shopping Cart Home Page</h3>
 <p><img src="https://raw.githubusercontent.com/govindgoel/Project-Cart/master/img/Screenshot%20from%202019-12-24%2001-36-52.png"></p><br>
 <h3>Sign In</h3>
-  <p><img src="https://raw.githubusercontent.com/govindgoel/Project-Cart/master/img/Screenshot%20from%202019-12-24%2001-40-   40.png"></p><br>
+  <p><img src="https://raw.githubusercontent.com/govindgoel/Project-Cart/master/img/Screenshot%20from%202019-12-24%2001-40-40.png"></p><br>
 <h3>Sign Up</h3>
   <p><img src="https://raw.githubusercontent.com/govindgoel/Project-Cart/master/img/Screenshot%20from%202019-12-24%2001-40-46.png"><br>
 
