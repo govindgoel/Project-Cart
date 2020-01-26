@@ -5,7 +5,7 @@
   <p>This Project is basically a Shopping-Cart based on Django WebFramework</p>
   <p>It has the following features:<p>
   <ul>
-    <li>Sign in/up for user. </li>
+    <li>Sign in/up for user.</li>
     <li>You Can Sort Products based on Category.<li>
     <li>View Products of one Category at a time.<li>
     <li>Add/Delete/Update the product in cart. </li>
